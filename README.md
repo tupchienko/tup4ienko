@@ -12,7 +12,7 @@
 
 - 🔭 Hi, I'm Svyatoslav, and I'm currently working on some awesome projects on Github to build my portfolio as a backend developer.
 
-- 🌱 I'm always looking to learn new things and improve my skills, currently focusing on AZURE, .NET Core, Design Patterns and Refactoring.
+- 🌱 I'm always looking to learn new things and improve my skills, currently focusing on Azure, .NET Core, Design Patterns and Refactoring.
 
 - 👯 I'm always open to collaborate and work on projects with others, and learn from others experiences and ideas.
 
